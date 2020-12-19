@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  SUI
 //
-//  Created by Tomáš Lovrant on 19/12/2020.
+//  Created by tomu on 19/12/2020.
 //
 
 import SwiftUI
